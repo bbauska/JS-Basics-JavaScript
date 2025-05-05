@@ -1,4 +1,4 @@
-# js-basics
+# JS Basics
 Labs executed during UC Davis JavaScript Basics
 What should be covered on the Beginners level of JavaScript
 The topics which you should cover are –
